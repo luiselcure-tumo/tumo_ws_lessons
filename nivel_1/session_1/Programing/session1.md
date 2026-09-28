@@ -152,12 +152,14 @@ console.log(numero1*numero2)
 console.log(numero1/numero2)
 
 
-```---
+```
+---
 
 ## FUNCIONES PREDETERMINADAS EN JAVASCRIPT
 
 FUNCIÓN alert()
 Esta es una función integrada a JavaScript que crea un cuadro de diálogo con un mensaje.
+
 ```Javascript
 alert("Hola Mundo")
 
