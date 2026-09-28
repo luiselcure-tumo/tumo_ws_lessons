@@ -1,0 +1,37 @@
+REPASO NIVEL 1 TUMO
+
+1.SESSION
+	-Que es la programación?
+	-Que son los datos?
+	-Que es JavaScript
+	-Que es una variable
+		-Declaración
+		-Scope
+		-Como nombrarla
+		-Tipo de dato que guarda
+	-Tipos de datos que guardan las variables
+	-Variables y operadores aritméticos (+,-,*,/)
+	-Funciones predeterminadas en JS
+	-Estructura condicional o de control if-else
+
+
+2.SESSION
+	-Operadores aritméticos
+	-Tipos de datos que guardan las variables
+	-Operadores de comparación
+	-Operadores lógicos
+
+
+3.SESSION
+	-Que es la programación?
+	-Que son los datos?
+	-Que es JavaScript
+	-Que es una variable
+		-Declaración
+		-Scope
+		-Como nombrarla
+		-Tipo de dato que guarda
+	-Tipos de datos que guardan las variables
+	-Variables y operadores aritméticos (+,-,*,/)
+	-Funciones predeterminadas en JS
+	-Estructura condicional o de control if-else
