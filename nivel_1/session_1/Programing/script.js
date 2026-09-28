@@ -2,7 +2,7 @@
 // ¿QUE ES LA PROGRAMACION?
 
 
-// Programar tiene mucho que ver con los datos.
+// La programación está fuertemente relacionada con los datos.
 
 // todo buen programa realizan 3 acciones: 
 //  1. aceptar datos, 
